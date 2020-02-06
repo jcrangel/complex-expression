@@ -1,3 +1,12 @@
+"""
+Complex expression evaluator. 
+
+This program evaluate arithmetic expressions than could include complex numbers 
+
+Julio C. Rangel
+
+"""
+
 import sys
 
 DEBUG=False
